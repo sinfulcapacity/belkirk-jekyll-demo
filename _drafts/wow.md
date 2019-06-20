@@ -8,6 +8,5 @@ banner_image: ''
 related_posts: []
 
 ---
-    Awesome stuff
-
-    Wow this is block
+Awesome stuff
+Wow this is block
